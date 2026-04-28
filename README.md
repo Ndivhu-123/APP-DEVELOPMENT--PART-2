@@ -35,3 +35,6 @@ SmartCent successfully implements all of these requirements, providing a compreh
 ## Notes
 This repository captures the iterative development process, including database setup, UI layout design, theme customization, and testing.  
 SmartCent demonstrates persistence, solution-focused thinking, and attention to detail while delivering a polished prototype that embodies the principles of effective budgeting and responsible financial management.
+
+screenrecording youtube video link -https://www.youtube.com/watch?v=hEpzh6lAna8
+
